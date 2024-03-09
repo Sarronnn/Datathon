@@ -7,6 +7,7 @@ LMU wide held datathon computation
 This README provides an overview of an exploratory data analysis (EDA) conducted on EPA contracts, focusing on identifying opportunities for small, woman-owned, and minority-owned businesses. The analysis leverages a dataset of EPA contracts to uncover patterns, trends, and insights that can guide businesses in navigating the government contracting landscape.
 ## Problem Statement: 
 Task is to help small, women-owned, and minority-owned businesses secure Environmental Protection Agency (EPA) contract awards.
+Using descriptive and diagnostic analytics, we will analyze patterns in the potential total value of awards granted by the Environmental Protection Agency (EPA).
 
 ## Key Insights
 
