@@ -30,28 +30,41 @@ To address this problem and support the stakeholders, the following strategies c
 - Policy Advocacy and Engagement: Use the insights from the analysis to make suggestions for how to encourage the participation of small, women-owned, and minority owned buisnesses with EPA, and ensure they get the proper funding.
 
 ## Key Insight from Data Exploration:
-
-Contracting Opportunities:
-Analysis revealed disparities in average contract values among different business categories.
-Average contract values for woman-owned, minority-owned, and small disadvantaged businesses were notably higher compared to "other" businesses, indicating a focused effort by the EPA to support these groups.
-Regional Disparities:
-Variability in contract values across states suggests differing levels of activity and opportunities.
-Strategic targeting of states with higher activity or higher-value opportunities can be beneficial for businesses seeking to engage in EPA contracting.
-Tailored Support Programs:
-Identification of sector-specific opportunities highlights the need for tailored support programs for small, woman-owned, and minority-owned businesses.
-Support programs should address specific needs and opportunities within the contracting ecosystem.
+- Disparities in contract values.
+  - Higher values for woman-owned, minority-owned, and small disadvantaged businesses.
+  - Could be because EPA has departments focusing on underrepresented ssented businesses (Suggests that this does work) 
+- The businesses do well on certain contract types
+  - Women-owned businesses => BPA calls
+- Certain Contracts value Certain Buisness Sectors
+  - Top 3 buinness sectors were:
+    - Roofing Contracts
+    - Fabricated Metal Building and Component Manufacturing
+    - Markating Research and Public Opinion Polling
+- Regional Disparities:
+  - Varied contract values across states.
 
 ## Recommendations:
-Sector Focus:
-- Encourage businesses to focus efforts on sectors and contract types where they have been successful or where significant opportunities exist.
-- Highlight successful sectors and provide guidance for businesses to capitalize on their strengths.
-Addressing Barriers:
-- Develop targeted interventions or support mechanisms to address sector-specific barriers faced by minority-owned and small disadvantaged businesses.
-- Provide specialized training, improve access to information, and advocate for more inclusive procurement practices.
-Promoting Diversity and Inclusion:
-Ensure equitable opportunities for businesses of all types by encouraging diversity and inclusion initiatives.
-Leveraging Department Resources:
-Explore opportunities provided by the EPA's Small Business Solutions and Opportunities department to maximize participation of small businesses in EPA's acquisitions.
+1. Sector Focus:
+   
+Encourage focus on high-value sectors.
+
+Highlight successful sectors for businesses.
+
+Engaging in partnerships or networking within these sectors
+
+2. Strategize their focus:
+   
+ Potentially targeting states with higher average values if they are equipped to handle larger projects.
+ 
+3. Contract Type Focus:
+   
+Potentially target contract types that specific business would do good on.
+
+4. Addressing Barriers:
+   
+Develop interventions for sector-specific barriers.
+
+Provide specialized support for minority-owned and small disadvantaged businesses.
 
 
 ## Conclusion
