@@ -68,5 +68,5 @@ Provide specialized support for minority-owned and small disadvantaged businesse
 
 
 ## Conclusion
-The analysis provides a foundation for understanding the landscape of EPA contracting for small, woman-owned, and minority-owned businesses. By following the outlinedstrategies, businesses can navigate and leverage opportunities in government contracting more effectively.
+The analysis provides a foundation for understanding the landscape of EPA contracting for small, woman-owned, and minority-owned businesses. By following the outlined strategies, businesses can navigate and leverage opportunities in government contracting more effectively.
 
